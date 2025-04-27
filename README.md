@@ -1,17 +1,14 @@
-# 🌟 Hi 👋, I'm Aditya Domle
-**A passionate Full-Stack MERN Developer Intern at CodeAlpha.**
+# Hi, I'm Aditya Domle!👨‍💻
 
-Email Me 👉 📧 **adityadomle14@gmail.com** For Collaboration/Project or Anything Else. 😄
+Welcome to my GitHub profile! I'm a passionate **Full-Stack MERN Developer** and an intern at **CodeAlpha**. I specialize in building dynamic and scalable web applications with the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
 
-- 💼 **I’m currently working on:** MERN Stack projects
-- 📚 **I’m currently learning:** Fullstack Development
-- 🤝 **I’m looking to collaborate on:** Open Source
-- 🧠 **I’m looking for help with:** Full-Stack Development
-- 🗣️ **Ask me about:** Collaboration, Tech Support, Web Development
-- 📬 **How to reach me:** **adityadomle14@gmail.com**
-- 🧑‍💻 **Pronouns:** Aditya!
-- 🌍 **Fun fact:** I love Tech and Tech loves me 🖥️
-
+## 🚀 About Me
+- 🎓 **Current Role**: Frontend Developer Intern at CodeAlpha
+- 💻 **Tech Stack**: MongoDB, Express.js, React.js, Node.js (MERN Stack)
+- 🌱 **Learning**: Continuously improving my skills in MERN stack development
+- 🌍 **Location**: Nagpur,India
+- 📫 **Contact**: adityadomle14@gmail.com
+- 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.pvt.aditya._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-domle-06b8a4282) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/domle_aditya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityadomle14@gmail.com) 
