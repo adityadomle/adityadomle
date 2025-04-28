@@ -14,17 +14,10 @@
 	<a href="https://www.linkedin.com/in/your-linkedin-username/">
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
-	<a href="https://www.quora.com/profile/your-quora-username">
-		<img src="https://img.shields.io/badge/-Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
 	</a>
-	<a href="https://www.reddit.com/user/your-reddit-username">
-		<img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
 	</a>
 	<a href="mailto:your.email@example.com">
 		<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-	</a>
-	<a href="https://stackoverflow.com/users/your-stackoverflow-userid">
-		<img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
 	</a>
 </p>
 
