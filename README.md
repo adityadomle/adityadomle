@@ -1,22 +1,43 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Aditya Domle!
 
-[![](https://img.shields.io/badge/-@domleaditya-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/domle_aditya)
-[![](https://img.shields.io/badge/-@adityadomle-%23181717?style=flat-square&logo=github)](https://github.com/adityadomle)
-[![](https://img.shields.io/badge/-@pvt.aditya-%23000000?style=flat-square&logo=instagram)](https://www.instagram.com/_.pvt.aditya._/)
-[![](https://img.shields.io/badge/-@adityadomle-%23000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-domle-06b8a4282/)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.m)
+
+<p align="center">
+	<a href="https://www.instagram.com/your-instagram-username/">
+		<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+	</a>
+	<a href="https://twitter.com/your-twitter-username">
+		<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+	</a>
+	<a href="https://your-portfolio.com">
+		<img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+	</a>
+	<a href="https://www.linkedin.com/in/your-linkedin-username/">
+		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="https://www.quora.com/profile/your-quora-username">
+		<img src="https://img.shields.io/badge/-Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
+	</a>
+	<a href="https://www.reddit.com/user/your-reddit-username">
+		<img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+	</a>
+	<a href="mailto:your.email@example.com">
+		<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+	</a>
+	<a href="https://stackoverflow.com/users/your-stackoverflow-userid">
+		<img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+	</a>
+</p>
 
 
-
- <h2> 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕! </h2>
+<h2> 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕! </h2>
 
 ☕ 𝑪𝒐𝒅𝒆 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 | 🛠️ 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑩𝒖𝒊𝒍𝒅𝒆𝒓 | 🧠 𝑪𝒐𝒏𝒔𝒕𝒂𝒏𝒕 𝑳𝒆𝒂𝒓𝒏𝒆𝒓
 
-💡 𝑰 𝒂𝒎 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒐𝒄𝒖𝒔𝒆𝒅 𝒐𝒏 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒓𝒆𝒔𝒑𝒐𝒏𝒔𝒊𝒗𝒆, 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆 𝒂𝒏𝒅 𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒘𝒆𝒃 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔.
+💡 𝑰 𝒂𝒎 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒐𝒄𝒖𝒔𝒆𝒅 𝒐𝒏 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒓𝒆𝒔𝒑𝒐𝒏𝒔𝒊𝒗𝒆, 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆, 𝒂𝒏𝒅 𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒘𝒆𝒃 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔.
 
-⚛️ 𝑴𝒚 𝒄𝒐𝒓𝒆 𝒔𝒌𝒊𝒍𝒍𝒔 𝒍𝒊𝒆 𝒊𝒏 𝑹𝒆𝒂𝒄𝒕.𝒋𝒔, 𝑴𝑬𝑹𝑵 𝑺𝒕𝒂𝒄𝒌, 𝑹𝒆𝒔𝒕𝑭𝒖𝒍 𝑨𝑷𝑰𝒔, 𝒂𝒏𝒅 𝒎𝒐𝒅𝒆𝒓𝒏 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒇𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔.
+⚛️ 𝑴𝒚 𝒄𝒐𝒓𝒆 𝒔𝒌𝒊𝒍𝒍𝒔 𝒍𝒊𝒆 𝒊𝒏 React.js, MERN Stack, Restful APIs, 𝒂𝒏𝒅 𝒎𝒐𝒅𝒆𝒓𝒏 JavaScript 𝒇𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔.
 
-🚀 𝑰 𝒃𝒆𝒍𝒊𝒆𝒗𝒆 𝒊𝒏 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒍𝒚 𝒆𝒗𝒐𝒍𝒗𝒊𝒏𝒈, 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒏𝒆𝒘 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔, 𝒂𝒏𝒅 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒕𝒉𝒂𝒕 𝒎𝒂𝒌𝒆 𝒂 𝒓𝒆𝒂𝒍 𝒊𝒎𝒑𝒂𝒄𝒕
+🚀 𝑰 𝒃𝒆𝒍𝒊𝒆𝒗𝒆 𝒊𝒏 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒍𝒚 𝒆𝒗𝒐𝒍𝒗𝒊𝒏𝒈, 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒏𝒆𝒘 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔, 𝒂𝒏𝒅 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒕𝒉𝒂𝒕 𝒎𝒂𝒌𝒆 𝒂 𝒓𝒆𝒂𝒍 𝒊𝒎𝒑𝒂𝒄𝒕.
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -25,5 +46,5 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaDomle&show_icons=true&theme=nightowl)
+
 
