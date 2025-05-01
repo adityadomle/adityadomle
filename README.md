@@ -45,8 +45,8 @@
       <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-4CAF50?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tailwind-FF4081?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/Next-D50000?style=for-the-badge&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=react&logoColor=ffffff"/>
     </td>
   </tr>
   <tr>
