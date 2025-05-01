@@ -27,7 +27,7 @@
 
 
 <!-- All badges -->
-<h3 align="center">𝑻𝒆𝒙𝒕 𝑺𝒕𝒂𝒄𝒌 👨‍💻</h3>
+<h3 align="center">𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 👨‍💻</h3>
 <table align="center">
   <tr>
     <td><strong>Languages</strong></td>
@@ -101,7 +101,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadomle&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-<h3 align="center">𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝑪𝒐𝒖𝒏𝒕</h3>
+<h3 align="center">𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 𝒄𝒐𝒖𝒏𝒕</h3>
 <p align="center">
   <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
 </p>
