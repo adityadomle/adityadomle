@@ -1,4 +1,3 @@
-h
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+Bhai+2&weight=700&size=31&duration=2500&pause=100&color=FF0B55&center=true&multiline=true&repeat=false&width=500&height=150&lines=Hi%2C+I'm+Aditya!;A+Self+Taught+Software+Developer;Based+in+Nagpur%2C+Maharashtra+Area" alt="Typing SVG"/>
