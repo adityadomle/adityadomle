@@ -105,22 +105,22 @@
   </tr>
 </table>
 
+### 👁️ Visitor Count
 
-<h3>⚙️ GitHub Analytics</h3>
-    <table>
-        <tr>
-            <td>
-                <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adityadomle&theme=algolia" alt="webDev's Github stats" />
-            </td>
-            <td>
-                <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityadomle&theme=algolia&layout=compact" />
-            </td>
-        </tr>
-    </table>
+<p align="left">
+  <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
+</p>
 
- <hr />
 
-  ![](https://img.shields.io/static/v1?label=Profile+views&message=923&color=brightgreen)
+<h3 align="center">👨💻 Coding Activity</h3>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadomle&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+## 📊 GitHub Contributions
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=adityadomle&show_icons=true&hide_title=true&hide_border=true&theme=radical&count_private=true&hide=prs)
 
 <a href="https://www.buymeacoffee.com/adityadomle" target="_blank" rel="noreferrer nofollow">
         <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" />
