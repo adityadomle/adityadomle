@@ -1,3 +1,6 @@
+<!-- ============================== -->
+<!-- 💡 Typing Animation Banner -->
+<!-- ============================== -->
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+Bhai+2&weight=670&size=31&duration=2500&pause=100&color=00FF00&center=true&multiline=true&repeat=false&width=500&height=150&lines=Hi%2C+I'm+Aditya!;A+Self+Taught+Software+Developer;Based+in+Nagpur%2C+Maharashtra+Area" alt="Typing SVG"/>
@@ -5,12 +8,15 @@
 </div>
 <br/>
 
+<!-- ============================== -->
+<!-- 🔗 Social Media Links -->
+<!-- ============================== -->
 <p align="center">
     <a href="https://www.instagram.com/_.pvt.aditya._/">
         <img src="https://img.shields.io/badge/-Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://x.com/domle_aditya">
-        <img src="https://img.shields.io/badge/-Twitter-00BFFF?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (Twitter)" />
+        <img src="https://img.shields.io/badge/-Twitter-00BFFF?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
     </a>
     <a href="mailto:adityadomle14@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-FF4081?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -20,15 +26,20 @@
     </a>
 </p>
 
+<!-- ============================== -->
+<!-- ❤️ Frontend Love Note -->
+<!-- ============================== -->
 <div align="center">
-  <h2 style="color:#ff4d4d;">𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</h2>
+    <h2 style="color:#ff4d4d;">𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</h2>
 </div>
 
-
-
-<!-- All badges -->
+<!-- ============================== -->
+<!-- 🧰 Tech Stack Table -->
+<!-- ============================== -->
 <h3 align="center">𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬 👨‍💻</h3>
 <table align="center">
+
+  <!-- Languages -->
   <tr>
     <td><strong>Languages</strong></td>
     <td>
@@ -39,6 +50,8 @@
       <img src="https://img.shields.io/badge/TypeScript-6200EA?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     </td>
   </tr>
+
+  <!-- Frontend -->
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
@@ -49,6 +62,8 @@
       <img src="https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=react&logoColor=ffffff"/>
     </td>
   </tr>
+
+  <!-- Backend -->
   <tr>
     <td><strong>Backend</strong></td>
     <td>
@@ -57,6 +72,8 @@
       <img src="https://img.shields.io/badge/Express.js-FF9800?style=for-the-badge&logo=express&logoColor=white"/>
     </td>
   </tr>
+
+  <!-- Databases -->
   <tr>
     <td><strong>Databases</strong></td>
     <td>
@@ -65,6 +82,8 @@
       <img src="https://img.shields.io/badge/MySQL-1E88E5?style=for-the-badge&logo=mysql&logoColor=white"/>
     </td>
   </tr>
+
+  <!-- Version Control -->
   <tr>
     <td><strong>Version Control</strong></td>
     <td>
@@ -73,6 +92,8 @@
       <img src="https://img.shields.io/badge/GitHub-3F51B5?style=for-the-badge&logo=github&logoColor=white"/>
     </td>
   </tr>
+
+  <!-- Tools & Platforms -->
   <tr>
     <td><strong>Tools & Platforms</strong></td>
     <td>
@@ -85,6 +106,8 @@
       <img src="https://img.shields.io/badge/AWS-FF8F00?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     </td>
   </tr>
+
+  <!-- Design Tools -->
   <tr>
     <td><strong>Design</strong></td>
     <td>
@@ -94,25 +117,34 @@
       <img src="https://img.shields.io/badge/WordPress-FF5722?style=for-the-badge&logo=wordpress&logoColor=white"/>
     </td>
   </tr>
+
 </table>
 
-
+<!-- ============================== -->
+<!-- 📈 GitHub Activity Graph -->
+<!-- ============================== -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadomle&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadomle&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
- <!-- Snake Animation -->
+<!-- ============================== -->
+<!-- 🐍 GitHub Snake Animation -->
+<!-- ============================== -->
 <div align="center">
-        <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
-    </div>
+    <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
+</div>
 
-    
+<!-- ============================== -->
+<!-- 👀 Visitor Counter -->
+<!-- ============================== -->
 <h5 align="left">𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h5>
 <p align="left">
-  <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
+    <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
 </p>
 
-
+<!-- ============================== -->
+<!-- ☕ Buy Me A Coffee -->
+<!-- ============================== -->
 <div align="left">
     <h5>𝘓𝘪𝘬𝘦 𝘮𝘺 𝘞𝘰𝘳𝘬?</h5>
     <a href="https://www.buymeacoffee.com/adityadomle" target="_blank" rel="noreferrer nofollow">
@@ -120,6 +152,9 @@
     </a>
 </div>
 
-
- <h5>✍️ 𝘙𝘢𝘯𝘥𝘰𝘮 𝘋𝘦𝘷 𝘘𝘶𝘰𝘵𝘦</h5>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<!-- ============================== -->
+<!-- 💬 Random Dev Quote -->
+<!-- ============================== -->
+<h5>✍️ 𝘙𝘢𝘯𝘥𝘰𝘮 𝘋𝘦𝘷 𝘘𝘶𝘰𝘵𝘦</h5>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<!-- Created By - Aditya S. Domle -->
