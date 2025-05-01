@@ -1,9 +1,8 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+Bhai+2&weight=700&size=31&duration=2500&pause=100&color=FF0B55&center=true&multiline=true&repeat=false&width=500&height=150&lines=Hi%2C+I'm+Aditya!;A+Self+Taught+Software+Developer;Based+in+Nagpur%2C+Maharashtra+Area" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+Bhai+2&weight=670&size=31&duration=2500&pause=100&color=00FF00&center=true&multiline=true&repeat=false&width=500&height=150&lines=Hi%2C+I'm+Aditya!;A+Self+Taught+Software+Developer;Based+in+Nagpur%2C+Maharashtra+Area" alt="Typing SVG"/>
     </a>
 </div>
-
 <br/>
 
 <p align="center">
@@ -21,21 +20,14 @@
     </a>
 </p>
 
-
-
 <div align="center">
-    <h2>𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</h2>
+  <h2 style="color:#ff4d4d;">𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</h2>
+</div>
 
-<p>🚀 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 💻 𝑰𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒗𝒆 𝑾𝒆𝒃 𝑪𝒐𝒅𝒊𝒏𝒈 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔</p>
 
-<p>🧑‍💻 𝑮𝒓𝒐𝒘𝒊𝒏𝒈 𝑻𝒆𝒂𝒎𝒔 𝑾𝒊𝒕𝒉 𝑨𝒈𝒊𝒍𝒆 𝑴𝒆𝒕𝒉𝒐𝒅𝒐𝒍𝒐𝒈𝒊𝒆𝒔 | 🔧 𝑪𝒓𝒆𝒂𝒕𝒊𝒏𝒈 𝑯𝒊𝒈𝒉-𝒒𝒖𝒂𝒍𝒊𝒕𝒚 𝑾𝒆𝒃 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔</p>
-
- <p>🌱 𝑴𝒂𝒌𝒊𝒏𝒈 𝑬𝒗𝒆𝒓𝒚 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒂𝒓 𝑾𝒊𝒕𝒉 𝑮𝒓𝒐𝒘𝒊𝒏𝒈 𝑪𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒗𝒆 𝑬𝒏𝒗𝒊𝒓𝒐𝒎𝒆𝒏𝒕! 🌟</p>
-
-<p>💡 𝑻𝒆𝒄𝒉 𝑰𝒎𝒎𝒐𝒗𝒂𝒕𝒐𝒓 🌐 | 🌟 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔𝒕 | 👨‍💻 𝑭𝒐𝒄𝒖𝒔𝒆𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑪𝒐𝒎𝒎𝒊𝒕𝒕𝒆𝒅 𝑻𝒐 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑹𝒆𝒍𝒊𝒂𝒃𝒍𝒆, 𝑼𝒔𝒆𝒓-𝑭𝒓𝒊𝒆𝒏𝒅𝒚 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 | 💼 🔍 𝑳𝒐𝒐𝒌𝒊𝒏𝒈 𝒇𝒐𝒓 𝑰𝒏𝒕𝒆𝒓𝒏𝒔𝒊𝒑!</p>
 
 <!-- All badges -->
-<h3 align="center">🧰 Tech Stack</h3>
+<h3 align="center">𝑻𝒆𝒙𝒕 𝑺𝒕𝒂𝒄𝒌 👨‍💻</h3>
 <table align="center">
   <tr>
     <td><strong>Languages</strong></td>
@@ -105,18 +97,14 @@
 </table>
 
 
-### 👁️ Visitor Count
-
-<p align="left">
-  <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
-</p>
-
-
-<h3 align="center">👨💻 Coding Activity</h3>
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadomle&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
+
+<h3 align="center">𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝑪𝒐𝒖𝒏𝒕</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
+</p>
 
 ## 📊 GitHub Contributions
 
