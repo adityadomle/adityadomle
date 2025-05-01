@@ -36,7 +36,7 @@
 <!-- ============================== -->
 <!-- 🧰 Tech Stack Table -->
 <!-- ============================== -->
-<h3 align="center">𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬 👨‍💻</h3>
+<h4 align="center">𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬 👨‍💻</h4>
 <table align="center">
 
   <!-- Languages -->
@@ -137,7 +137,7 @@
 <!-- ============================== -->
 <!-- 👀 Visitor Counter -->
 <!-- ============================== -->
-<h5 align="left">𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h5>
+<h4 align="left">𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h4>
 <p align="left">
     <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
 </p>
@@ -146,7 +146,7 @@
 <!-- ☕ Buy Me A Coffee -->
 <!-- ============================== -->
 <div align="left">
-    <h5>𝘓𝘪𝘬𝘦 𝘮𝘺 𝘞𝘰𝘳𝘬?</h5>
+    <h4>𝘓𝘪𝘬𝘦 𝘮𝘺 𝘞𝘰𝘳𝘬?</h4>
     <a href="https://www.buymeacoffee.com/adityadomle" target="_blank" rel="noreferrer nofollow">
         <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" />
     </a>
@@ -155,6 +155,6 @@
 <!-- ============================== -->
 <!-- 💬 Random Dev Quote -->
 <!-- ============================== -->
-<h5>✍️ 𝘙𝘢𝘯𝘥𝘰𝘮 𝘋𝘦𝘷 𝘘𝘶𝘰𝘵𝘦</h5>
+<h4>✍️ 𝘙𝘢𝘯𝘥𝘰𝘮 𝘋𝘦𝘷 𝘘𝘶𝘰𝘵𝘦</h4>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 <!-- Created By - Aditya S. Domle -->
