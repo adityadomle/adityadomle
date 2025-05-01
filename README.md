@@ -15,7 +15,7 @@
     <a href="mailto:adityadomle14@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-FF4081?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://wa.me/yourphonenumber">
+    <a href="https://wa.me/7796869904">
         <img src="https://img.shields.io/badge/-WhatsApp-00FF7F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
 </p>
@@ -27,7 +27,7 @@
 
 
 <!-- All badges -->
-<h3 align="center">𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 👨‍💻</h3>
+<h3 align="center">𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬 👨‍💻</h3>
 <table align="center">
   <tr>
     <td><strong>Languages</strong></td>
@@ -101,28 +101,25 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadomle&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-<h3 align="center">𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 𝒄𝒐𝒖𝒏𝒕</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
-</p>
-
-## 📊 GitHub Contributions
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=adityadomle&show_icons=true&hide_title=true&hide_border=true&theme=radical&count_private=true&hide=prs)
-
-<a href="https://www.buymeacoffee.com/adityadomle" target="_blank" rel="noreferrer nofollow">
-        <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" />
-    </a>
-
- <h3>✍️ Random Dev Quote</h3>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
  <!-- Snake Animation -->
 <div align="center">
         <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
     </div>
 
-<p align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
-    </p>
+    
+<h5 align="left">𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h5>
+<p align="left">
+  <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
+</p>
+
+
+<div align="left">
+    <h5>𝘓𝘪𝘬𝘦 𝘮𝘺 𝘞𝘰𝘳𝘬?</h5>
+    <a href="https://www.buymeacoffee.com/adityadomle" target="_blank" rel="noreferrer nofollow">
+        <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" />
+    </a>
 </div>
+
+
+ <h5>✍️ 𝘙𝘢𝘯𝘥𝘰𝘮 𝘋𝘦𝘷 𝘘𝘶𝘰𝘵𝘦</h5>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
