@@ -73,19 +73,11 @@
         <picture> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </picture>
     </p>
 
-<h3>⚙️ GitHub Analytics</h3>
-    <table>
-        <tr>
-            <td>
-                <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adityadomle&theme=algolia" alt="webDev's Github stats" />
-            </td>
-            <td>
-                <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityadomle&theme=algolia&layout=compact" />
-            </td>
-        </tr>
-    </table>
+<h3 align="center">👨💻 Coding Activity</h3>
 
- <hr />
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadomle&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
   ![](https://img.shields.io/static/v1?label=Profile+views&message=923&color=brightgreen)
 
