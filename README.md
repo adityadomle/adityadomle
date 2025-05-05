@@ -134,10 +134,16 @@
     <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
+<h4 align="left"> 📊 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 </h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityadomle&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="450" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityadomle&theme=blue-green&hide_border=false" width="450" />
+
+
 <!-- ============================== -->
 <!-- 👀 Visitor Counter -->
 <!-- ============================== -->
-<h4 align="left">𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h4>
+<h4 align="left">🔄 𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h4>
 <p align="left">
     <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
 </p>
@@ -146,7 +152,7 @@
 <!-- ☕ Buy Me A Coffee -->
 <!-- ============================== -->
 <div align="left">
-    <h4>𝘓𝘪𝘬𝘦 𝘮𝘺 𝘞𝘰𝘳𝘬?</h4>
+    <h4> 🎉 𝘓𝘪𝘬𝘦 𝘮𝘺 𝘞𝘰𝘳𝘬?</h4>
     <a href="https://www.buymeacoffee.com/adityadomle" target="_blank" rel="noreferrer nofollow">
         <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" />
     </a>
