@@ -12,9 +12,6 @@
 <!-- 🔗 Social Media Links -->
 <!-- ============================== -->
 <p align="center">
-    <a href="https://www.instagram.com/_.pvt.aditya._/">
-        <img src="https://img.shields.io/badge/-Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
     <a href="https://x.com/domle_aditya">
         <img src="https://img.shields.io/badge/-Twitter-00BFFF?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
     </a>
