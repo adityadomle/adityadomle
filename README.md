@@ -12,16 +12,23 @@
 <!-- 🔗 Social Media Links -->
 <!-- ============================== -->
 <p align="center">
+    <a href="https://www.linkedin.com/in/aditya-domle-06b8a4282/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/adityadomle">
+        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    </a>
+    <a href="https://leetcode.com/adityadomle/">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
     <a href="https://x.com/domle_aditya">
-        <img src="https://img.shields.io/badge/-Twitter-00BFFF?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
-    <a href="mailto:adityadomle14@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-FF4081?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://wa.me/7796869904">
-        <img src="https://img.shields.io/badge/-WhatsApp-00FF7F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <a href="https://adityadomle.vercel.app">
+        <img src="https://img.shields.io/badge/-Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
 </p>
+
 
 <!-- ============================== -->
 <!-- ❤️ Frontend Love Note -->
@@ -37,16 +44,15 @@
 <table align="center">
 
   <!-- Languages -->
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-0091EA?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-      <img src="https://img.shields.io/badge/C++-FF5722?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/Java-FF9800?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/TypeScript-6200EA?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    </td>
-  </tr>
+<tr>
+  <td><strong>Languages</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-6200EA?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </td>
+</tr>
+
 
   <!-- Frontend -->
   <tr>
@@ -55,7 +61,6 @@
       <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-4CAF50?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tailwind-FF4081?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next-D50000?style=for-the-badge&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=react&logoColor=ffffff"/>
     </td>
   </tr>
@@ -65,7 +70,6 @@
     <td><strong>Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-388E3C?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NestJS-FF4081?style=for-the-badge&logo=nestjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express.js-FF9800?style=for-the-badge&logo=express&logoColor=white"/>
     </td>
   </tr>
@@ -98,7 +102,6 @@
       <img src="https://img.shields.io/badge/NPM-FF5252?style=for-the-badge&logo=npm&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vercel-9C27B0?style=for-the-badge&logo=vercel&logoColor=white"/>
       <img src="https://img.shields.io/badge/Netlify-00E5FF?style=for-the-badge&logo=netlify&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Railway-00C853?style=for-the-badge&logo=railway&logoColor=white"/>
       <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS-FF8F00?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     </td>
