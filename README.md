@@ -18,7 +18,7 @@
     <a href="https://www.hackerrank.com/profile/adityadomle">
         <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
     </a>
-    <a href="https://leetcode.com/adityadomle/">
+    <a href="https://leetcode.com/u/adityadomle/">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     <a href="https://x.com/domle_aditya">
