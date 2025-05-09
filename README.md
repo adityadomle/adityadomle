@@ -154,12 +154,11 @@
 <!-- ☕ Buy Me A Coffee -->
 <!-- ============================== -->
 <div align="left">
-    <h4> 🎉 𝘓𝘪𝘬𝘦 𝘮𝘺 𝘞𝘰𝘳𝘬?</h4>
-    <a href="https://www.buymeacoffee.com/adityadomle" target="_blank" rel="noreferrer nofollow">
-        <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" />
-    </a>
+  <h4>🎉 𝘓𝘪𝘬𝘦 𝘮𝘺 𝘞𝘰𝘳𝘬?</h4>
+  <a href="https://www.buymeacoffee.com/adityadomle" target="_blank" rel="noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-darkgreen?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" />
+  </a>
 </div>
-
 <!-- ============================== -->
 <!-- 💬 Random Dev Quote -->
 <!-- ============================== -->
