@@ -7,7 +7,6 @@
     </a>
 </div>
 <br/>
-
 <!-- ============================== -->
 <!-- 🔗 Social Media Links -->
 <!-- ============================== -->
@@ -28,21 +27,17 @@
         <img src="https://img.shields.io/badge/-Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
 </p>
-
-
 <!-- ============================== -->
 <!-- ❤️ Frontend Love Note -->
 <!-- ============================== -->
 <div align="center">
     <h2 style="color:#ff4d4d;">𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</h2>
 </div>
-
 <!-- ============================== -->
 <!-- 🧰 Tech Stack Table -->
 <!-- ============================== -->
 <h4 align="center">𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬 👨‍💻</h4>
 <table align="center">
-
   <!-- Languages -->
 <tr>
   <td><strong>Languages</strong></td>
@@ -52,8 +47,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </td>
 </tr>
-
-
   <!-- Frontend -->
   <tr>
     <td><strong>Frontend</strong></td>
@@ -64,7 +57,6 @@
       <img src="https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=react&logoColor=ffffff"/>
     </td>
   </tr>
-
   <!-- Backend -->
   <tr>
     <td><strong>Backend</strong></td>
@@ -73,7 +65,6 @@
       <img src="https://img.shields.io/badge/Express.js-FF9800?style=for-the-badge&logo=express&logoColor=white"/>
     </td>
   </tr>
-
   <!-- Databases -->
   <tr>
     <td><strong>Databases</strong></td>
@@ -83,7 +74,6 @@
       <img src="https://img.shields.io/badge/MySQL-1E88E5?style=for-the-badge&logo=mysql&logoColor=white"/>
     </td>
   </tr>
-
   <!-- Version Control -->
   <tr>
     <td><strong>Version Control</strong></td>
@@ -93,7 +83,6 @@
       <img src="https://img.shields.io/badge/GitHub-3F51B5?style=for-the-badge&logo=github&logoColor=white"/>
     </td>
   </tr>
-
   <!-- Tools & Platforms -->
   <tr>
     <td><strong>Tools & Platforms</strong></td>
@@ -106,7 +95,6 @@
       <img src="https://img.shields.io/badge/AWS-FF8F00?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     </td>
   </tr>
-
   <!-- Design Tools -->
   <tr>
     <td><strong>Design</strong></td>
@@ -117,8 +105,14 @@
       <img src="https://img.shields.io/badge/WordPress-FF5722?style=for-the-badge&logo=wordpress&logoColor=white"/>
     </td>
   </tr>
-
 </table>
+
+## 🚧 Project in Progress
+
+I'm currently working on this project. Stay tuned — a detailed walkthrough!
+
+![Project Screenshot Coming Soon](Image/image.png)
+
 
 <!-- ============================== -->
 <!-- 📈 GitHub Activity Graph -->
@@ -126,7 +120,6 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadomle&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
-
 <!-- ============================== -->
 <!-- 🐍 GitHub Snake Animation -->
 <!-- ============================== -->
