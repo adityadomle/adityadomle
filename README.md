@@ -106,14 +106,6 @@
     </td>
   </tr>
 </table>
-
-## 🚧 Project in Progress
-
-I'm currently working on this project. Stay tuned — a detailed walkthrough!
-
-![Project Screenshot Coming Soon](Image/image.png)
-
-
 <!-- ============================== -->
 <!-- 📈 GitHub Activity Graph -->
 <!-- ============================== -->
