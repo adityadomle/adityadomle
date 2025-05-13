@@ -123,13 +123,13 @@
 </picture>
 </p>
 
-
 <h4 align="left"> 📊 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 </h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=adityadomle&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="450" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityadomle&theme=blue-green&hide_border=false" width="450" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadomle&layout=compact&theme=blue-green&hide_border=false" width="450" />
+<img src="https://github-readme-stats.vercel.app/api?username=adityadomle&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="450" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=adityadomle&theme=blue-green&hide_border=false" width="450" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadomle&layout=compact&theme=blue-green&hide_border=false" width="450" />
+
 
 
 <!-- ============================== -->
