@@ -2,10 +2,11 @@
 <!-- 💡 Typing Animation Banner -->
 <!-- ============================== -->
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+Bhai+2&weight=670&size=31&duration=2500&pause=100&color=00C9A7&center=true&multiline=true&repeat=false&width=500&height=150&lines=Hi%2C+I'm+Aditya!;A+Self+Taught+Software+Developer;Based+in+Nagpur%2C+Maharashtra+Area" alt="Typing SVG"/>
-    </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2500&pause=100&color=8ACCD5&center=true&multiline=true&repeat=false&width=700&height=150&lines=Hi%2C+I'm+Aditya!;A+Self+Taught+Software+Developer;Based+in+Nagpur%2C+Maharashtra+Area" alt="Typing SVG"/>
+  </a>
 </div>
+
 <br/>
 <!-- ============================== -->
 <!-- 🔗 Social Media Links -->
