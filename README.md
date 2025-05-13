@@ -3,31 +3,30 @@
 <!-- ============================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2500&pause=100&color=E9A5F1&center=true&multiline=true&repeat=false&width=700&height=150&lines=Hi%2C+I'm+Aditya+Domle!;A+Self+Taught+Software+Developer;Based+in+Maharashtra%2C+India!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2500&pause=100&color=1DA1F2&center=true&multiline=true&repeat=false&width=700&height=150&lines=Hi%2C+I'm+Aditya+Domle!;A+Self+Taught+Software+Developer;Based+in+Maharashtra%2C+India!" alt="Typing SVG"/>
   </a>
 </div>
 
 <br/>
 <!-- ============================== -->
-<!-- 🔗 Social Media Links -->
+<!-- 🌑 Dark Mode Social Links (Style 7) with Portfolio -->
 <!-- ============================== -->
 <p align="center">
-    <a href="https://www.linkedin.com/in/aditya-domle-06b8a4282/">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
     <a href="https://www.hackerrank.com/profile/adityadomle">
-        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+        <img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank" />
     </a>
-    <a href="https://leetcode.com/u/adityadomle/">
-        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <a href="https://www.linkedin.com/in/aditya-domle-06b8a4282/">
+        <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
     </a>
     <a href="https://x.com/domle_aditya">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+        <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" />
     </a>
     <a href="https://adityadomle.vercel.app">
-        <img src="https://img.shields.io/badge/-Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" />
     </a>
 </p>
+
+
 <!-- ============================== -->
 <!-- ❤️ Frontend Love Note -->
 <!-- ============================== -->
