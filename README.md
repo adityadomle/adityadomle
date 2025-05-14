@@ -41,7 +41,7 @@
   <td><strong>Languages</strong></td>
   <td>
     <img src="https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-6200EA?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </td>
 </tr>
@@ -49,61 +49,63 @@
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-4CAF50?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-FF4081?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=react&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     </td>
   </tr>
   <!-- Backend -->
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-388E3C?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-FF9800?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
     </td>
   </tr>
   <!-- Databases -->
   <tr>
     <td><strong>Databases</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/MongoDB-2E7D32?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prisma-D32F2F?style=for-the-badge&logo=Prisma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-1E88E5?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
     </td>
   </tr>
   <!-- Version Control -->
   <tr>
     <td><strong>Version Control</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-E91E63?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitLab-FF6F00?style=for-the-badge&logo=gitlab&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-3F51B5?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </td>
   </tr>
   <!-- Tools & Platforms -->
   <tr>
     <td><strong>Tools & Platforms</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/VS%20Code-6200EA?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NPM-FF5252?style=for-the-badge&logo=npm&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vercel-9C27B0?style=for-the-badge&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Netlify-00E5FF?style=for-the-badge&logo=netlify&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
       <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-FF8F00?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     </td>
   </tr>
   <!-- Design Tools -->
   <tr>
     <td><strong>Design</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Figma-FF4081?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
       <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Lightroom-FF9800?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WordPress-FF5722?style=for-the-badge&logo=wordpress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
     </td>
   </tr>
 </table>
+
 <!-- ============================== -->
 <!-- 📈 GitHub Activity Graph -->
 <!-- ============================== -->
