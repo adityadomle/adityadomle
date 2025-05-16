@@ -26,6 +26,11 @@
     </a>
 </p>
 
+<div align="left">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=1DA1F2&center=true&vCenter=true&width=650&lines=Data+is+everything..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+effeciently..." alt="Typing SVG"/>
+    </h1>
+</div>
 
 <!-- ============================== -->
 <!-- ❤️ Frontend Love Note -->
