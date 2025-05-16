@@ -1,16 +1,18 @@
 <!-- ============================= -->
 <!-- 💡 Typing Animation Banner -->
 <!-- ============================== -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2500&pause=100&color=1DA1F2&center=true&multiline=true&repeat=false&width=700&height=150&lines=Hi%2C+I'm+Aditya+Domle!;A+Self+Taught+Software+Developer;Based+in+Maharashtra%2C+India!" alt="Typing SVG"/>
   </a>
 </div>
-
 <br/>
+
 <!-- ============================== -->
-<!-- 🌑 Dark Mode Social Links (Style 7) with Portfolio -->
+<!-- 🌑 Dark Mode Social Links -->
 <!-- ============================== -->
+
 <p align="center">
     <a href="https://www.hackerrank.com/profile/adityadomle">
         <img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank" />
@@ -26,19 +28,10 @@
     </a>
 </p>
 
-<div align="left">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=1DA1F2&center=true&vCenter=true&width=650&lines=Data+is+everything..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+effeciently..." alt="Typing SVG"/>
-    </h1>
-</div>
-
-<!-- ============================== -->
-<!-- ❤️ Frontend Love Note -->
-<!-- ============================== -->
-
 <!-- ============================== -->
 <!-- 🧰 Tech Stack Table -->
 <!-- ============================== -->
+
 <h4 align="center">𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬 👨‍💻</h4>
 <table align="center">
   <!-- Languages -->
@@ -114,12 +107,15 @@
 <!-- ============================== -->
 <!-- 📈 GitHub Activity Graph -->
 <!-- ============================== -->
+
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadomle&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
+
 <!-- ============================== -->
 <!-- 🐍 GitHub Snake Animation -->
 <!-- ============================== -->
+
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -135,11 +131,10 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadomle&layout=compact&theme=blue-green&hide_border=false" width="450" />
 
-
-
 <!-- ============================== -->
 <!-- 👀 Visitor Counter -->
 <!-- ============================== -->
+
 <h4 align="left">🔄 𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h4>
 <p align="left">
     <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
@@ -148,15 +143,29 @@
 <!-- ============================== -->
 <!-- ☕ Buy Me A Coffee -->
 <!-- ============================== -->
+
 <div align="left">
   <h4>🎉 𝘓𝘪𝘬𝘦 𝘮𝘺 𝘞𝘰𝘳𝘬?</h4>
   <a href="https://www.buymeacoffee.com/adityadomle" target="_blank" rel="noreferrer nofollow">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-darkgreen?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" />
   </a>
 </div>
+
 <!-- ============================== -->
 <!-- 💬 Random Dev Quote -->
 <!-- ============================== -->
+
 <h4>✍️ 𝘙𝘢𝘯𝘥𝘰𝘮 𝘋𝘦𝘷 𝘘𝘶𝘰𝘵𝘦</h4>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<!-- ============================== -->
+<!-- 💬 Happy Coding -->
+<!-- ============================== -->
+
+<div align="left">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=273F4F&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+!;Let's+connect+!;Explore+my+projects" alt="Typing SVG"/>
+    </h1>
+</div>
+
 <!-- Created By - Aditya S. Domle -->
