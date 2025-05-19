@@ -129,7 +129,6 @@
 <!-- ============================== -->
 <!-- 👀 Visitor Counter -->
 <!-- ============================== -->
-
 <h4 align="left">🔄 𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h4>
 <p align="left">
     <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
