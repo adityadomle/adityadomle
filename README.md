@@ -108,14 +108,6 @@
 </table>
 
 <!-- ============================== -->
-<!-- 📈 GitHub Activity Graph -->
-<!-- ============================== -->
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadomle&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-<!-- ============================== -->
 <!-- 🐍 GitHub Snake Animation -->
 <!-- ============================== -->
 
@@ -160,15 +152,5 @@
 
 <h4>✍️ 𝘙𝘢𝘯𝘥𝘰𝘮 𝘋𝘦𝘷 𝘘𝘶𝘰𝘵𝘦</h4>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-<!-- ============================== -->
-<!-- 💬 Happy Coding -->
-<!-- ============================== -->
-
-<div align="left">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Data+is+everything..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+effeciently..." alt="Typing SVG"/>
-    </h1>
-</div>
 
 <!-- Created By - Aditya S. Domle -->
