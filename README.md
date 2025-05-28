@@ -23,10 +23,11 @@
     <a href="https://x.com/domle_aditya">
         <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" />
     </a>
-    <a href="https://imaditya.in">
-        <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" />
+    <a href="https://linktr.ee/adityadomle">
+        <img src="https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=linktree&logoColor=39E09B" alt="Linktree" />
     </a>
 </p>
+
 
 <!-- ============================== -->
 <!-- Bento Profile -->
