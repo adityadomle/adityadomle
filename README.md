@@ -32,7 +32,7 @@
 <!-- ============================== -->
 <!-- Bento Profile -->
 <!-- ============================== -->
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle0c99c.png?alt=media)
+
 
 <!-- ============================== -->
 <!-- 🧰 Tech Stack Table -->
