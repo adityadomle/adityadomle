@@ -96,7 +96,7 @@
 </picture>
 </p>
 
-<h4 align="left"> 📊 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 </h4>
+<h4 align="center"> 📊 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 </h4>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityadomle&theme=prussian" width="650" height="auto" />
 
