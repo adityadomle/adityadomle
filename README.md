@@ -1,33 +1,32 @@
-<!-- ============================== -->
-<!-- Bento Profile -->
-<!-- ============================== -->
+<!-- ════════════ 👤 PROFILE BANNER & SOCIAL LINKS ════════════ -->
+
    ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle1708c.png?alt=media)
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-domle-06b8a4282/)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/adityadomle)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/domle_aditya)
 
+<!-- ════════════ 💡 WHO I AM ════════════ -->
 
-<!-- ============================== -->
-<!-- About Table -->
-<!-- ============================== -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> About me
+## Who I am -
 
 <img align="right" alt="coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" />
 
-- 🎓 I’m currently studying BCA, Final Year Computer Science  
+- 🎓 Final-year BCA student specializing in Computer Science 
 
 - 🌱 Currently learning Full Stack Web Development (MERN)  
 
-- 💬 Ask me about HTML, CSS, JavaScript & React  
+- 💬 Let’s connect over HTML, CSS, JavaScript, and React topics  
 
 - 🌐 Open Source Contributor at Social Summer of Code 2025
 
-- 📍 I live in **Maharashtra, India!**
-
 - 💡 **Looking for a Front-end Developer internship opportunity!**
-   
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Skills
+
+- 📍 Based in **Maharashtra, India!**
+
+<!-- ════════════ 🛠️ TECHNICAL SKILLS ════════════ -->
+
+## Technical Skills -
 
 <div align="center" style="line-height: 1.6;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript" />
@@ -83,10 +82,7 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="30" alt="WordPress" />
 </div>
 
-
-<!-- ============================== -->
-<!-- 🐍 GitHub Snake Animation -->
-<!-- ============================== -->
+<!-- ════════════ 🐍 GITHUB SNAKE ANIMATION ════════════ -->
 
 <p align="center">
   <picture>
@@ -95,6 +91,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 </p>
+
+<!-- ════════════ 📈 GITHUB STATS ════════════ -->
 
 <h4 align="center"> 📊 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 </h4>
 <div align="center">
@@ -109,18 +107,14 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityadomle&theme=prussian&utcOffset=+6.5" width="300" height="auto" style="display: inline;" />
 </div>
 
+<!-- ════════════ 👁️ VISITOR COUNT ════════════ -->
 
-<!-- ============================== -->
-<!-- 👀 Visitor Counter -->
-<!-- ============================== -->
 <h4 align="left">🔄 𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h4>
 <p align="left">
     <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
 </p>
 
-<!-- ============================== -->
-<!-- ☕ Buy Me A Coffee -->
-<!-- ============================== -->
+<!-- ════════════ ☕ SUPPORT ME ════════════ -->
 
 <div align="left">
   <h4>🎉 𝘓𝘪𝘬𝘦 𝘮𝘺 𝘞𝘰𝘳𝘬?</h4>
@@ -129,11 +123,9 @@
   </a>
 </div>
 
-<!-- ============================== -->
-<!-- 💬 Random Dev Quote -->
-<!-- ============================== -->
+<!-- ════════════ 💬 RANDOM DEV QUOTE ════════════ -->
 
 <h4>✍️ 𝘙𝘢𝘯𝘥𝘰𝘮 𝘋𝘦𝘷 𝘘𝘶𝘰𝘵𝘦</h4>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-<!-- Created By - Aditya S. Domle -->
+<!-- ════════════ © ADITYA DOMLE ════════════ -->
