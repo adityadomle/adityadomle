@@ -2,6 +2,8 @@
 
    ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle1708c.png?alt=media)
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=A8F1FF&vCenter=true&lines=Full+Stack+Web+Developer!;Self-Taught+Software+Engineer!;Committed+to+Continuous+Learning!;Open+Source+Contributor!)](https://git.io/typing-svg)
+
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-domle-06b8a4282/)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/adityadomle)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/domle_aditya)
@@ -105,7 +107,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityadomle&theme=prussian" width="300" height="auto" style="display: inline;" />
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityadomle&theme=prussian&utcOffset=+6.5" width="300" height="auto" style="display: inline;" />
-</div>
+</div> 
 
 <!-- ════════════ 👁️ VISITOR COUNT ════════════ -->
 
@@ -127,5 +129,6 @@
 
 <h4>✍️ 𝘙𝘢𝘯𝘥𝘰𝘮 𝘋𝘦𝘷 𝘘𝘶𝘰𝘵𝘦</h4>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+    <div align="center">
 
 <!-- ════════════ © ADITYA DOMLE ════════════ -->
