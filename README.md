@@ -1,114 +1,88 @@
-<!-- ============================ -->
-<!-- 💡 Typing Animation Banner -->
-<!-- ============================== -->
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2500&pause=100&color=1DA1F2&center=true&multiline=true&repeat=false&width=700&height=150&lines=Hi%2C+I'm+Aditya+Domle!;A+Self+Taught+Software+Developer;Based+in+Maharashtra%2C+India!" alt="Typing SVG"/>
-  </a>
-</div>
-<br/>
-
-<!-- ============================== -->
-<!-- 🌑 Dark Mode Social Links -->
-<!-- ============================== -->
-
-<p align="center">
-    <a href="https://www.hackerrank.com/profile/adityadomle">
-        <img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank" />
-    </a>
-    <a href="https://www.linkedin.com/in/aditya-domle-06b8a4282/">
-        <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-    </a>
-    <a href="https://x.com/domle_aditya">
-        <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" />
-    </a>
-    <a href="https://linktr.ee/adityadomle">
-        <img src="https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=linktree&logoColor=39E09B" alt="Linktree" />
-    </a>
-</p>
-
-
 <!-- ============================== -->
 <!-- Bento Profile -->
 <!-- ============================== -->
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle1708c.png?alt=media)
+   ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle1708c.png?alt=media)
+
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-domle-06b8a4282/)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/adityadomle)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/domle_aditya)
+
 
 <!-- ============================== -->
-<!-- 🧰 Tech Stack Table -->
+<!-- About Table -->
 <!-- ============================== -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> About me
 
-<h4 align="center">𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬 👨‍💻</h4>
-<table align="center">
-  <!-- Languages -->
-<tr>
-  <td><strong>Languages</strong></td>
-  <td>
-    <img src="https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </td>
-</tr>
-  <!-- Frontend -->
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    </td>
-  </tr>
-  <!-- Backend -->
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-    </td>
-  </tr>
-  <!-- Databases -->
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-    </td>
-  </tr>
-  <!-- Version Control -->
-  <tr>
-    <td><strong>Version Control</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </td>
-  </tr>
-  <!-- Tools & Platforms -->
-  <tr>
-    <td><strong>Tools & Platforms</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    </td>
-  </tr>
-  <!-- Design Tools -->
-  <tr>
-    <td><strong>Design</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<img align="right" alt="coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" />
+
+- 🎓 I’m currently studying BCA, Final Year Computer Science  
+
+- 🌱 Currently learning Full Stack Web Development (MERN)  
+
+- 💬 Ask me about HTML, CSS, JavaScript & React  
+
+- 🌐 Open Source Contributor at Social Summer of Code 2025
+
+- 📍 I live in **Maharashtra, India!**
+
+- 💡 **Looking for a Front-end Developer internship opportunity!**
+-  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Skills
+
+<div align="center" style="line-height: 1.6;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="TypeScript" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/HTML5-E44D26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="HTML5" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/CSS3-264DE4?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="CSS3" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" alt="TailwindCSS" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="React" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" height="30" alt="Node.js" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="Express.js" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="MongoDB" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="Prisma" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="MySQL" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" height="30" alt="Supabase" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="Git" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" height="30" alt="GitLab" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="GitHub" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="30" alt="VS Code" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="NPM" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="Vercel" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" height="30" alt="Netlify" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="Google Cloud" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" height="30" alt="AWS" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="Figma" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="30" alt="Canva" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white&style=for-the-badge" height="30" alt="Lightroom" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="30" alt="WordPress" />
+</div>
+
 
 <!-- ============================== -->
 <!-- 🐍 GitHub Snake Animation -->
