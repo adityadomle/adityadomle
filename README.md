@@ -97,11 +97,18 @@
 </p>
 
 <h4 align="left"> 📊 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 </h4>
-<img src="https://github-readme-stats.vercel.app/api?username=adityadomle&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="450" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=adityadomle&theme=blue-green&hide_border=false" width="450" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadomle&layout=compact&theme=blue-green&hide_border=false" width="450" />
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityadomle&theme=prussian" width="650" height="auto" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityadomle&theme=prussian" width="300" height="auto" style="display: inline;" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityadomle&theme=prussian" width="300" height="auto" style="display: inline;" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityadomle&theme=prussian" width="300" height="auto" style="display: inline;" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityadomle&theme=prussian&utcOffset=+6.5" width="300" height="auto" style="display: inline;" />
+</div>
+
 
 <!-- ============================== -->
 <!-- 👀 Visitor Counter -->
