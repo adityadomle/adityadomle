@@ -26,7 +26,7 @@
 - 📍 I live in **Maharashtra, India!**
 
 - 💡 **Looking for a Front-end Developer internship opportunity!**
--  
+   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Skills
 
 <div align="center" style="line-height: 1.6;">
