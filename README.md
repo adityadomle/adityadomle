@@ -1,7 +1,6 @@
 <!-- ════════════ 👤 PROFILE BANNER & SOCIAL LINKS ════════════ -->
  
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle23889.png?alt=media)
-
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle15e31.png?alt=media)
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=A8F1FF&vCenter=true&lines=Full+Stack+Web+Developer!;Self-Taught+Software+Engineer!;Committed+to+Continuous+Learning!;Open+Source+Contributor!)](https://git.io/typing-svg)
    
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-domle-06b8a4282/)
