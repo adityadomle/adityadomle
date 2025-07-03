@@ -97,15 +97,17 @@
 
 <h4 align="center"> 📊 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 </h4>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityadomle&theme=prussian" width="650" height="auto" />
+<!-- 🧠 Contributions Overview -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityadomle&theme=tokyonight" width="100%" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityadomle&theme=prussian" width="300" height="auto" style="display: inline;" />
+<!-- 🎯 Language Metrics: Top langs & commits -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityadomle&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityadomle&theme=tokyonight" width="48%" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityadomle&theme=prussian" width="300" height="auto" style="display: inline;" />
+<!-- 📈 GitHub Stats & Active Hours -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityadomle&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityadomle&theme=tokyonight&utcOffset=6.5" width="48%" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityadomle&theme=prussian" width="300" height="auto" style="display: inline;" />
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityadomle&theme=prussian&utcOffset=+6.5" width="300" height="auto" style="display: inline;" />
 </div> 
 
 <!-- ════════════ 👁️ VISITOR COUNT ════════════ -->
