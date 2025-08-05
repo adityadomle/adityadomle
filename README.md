@@ -1,18 +1,27 @@
 <!-- ════════════ 👤 PROFILE BANNER & SOCIAL LINKS ════════════ --> 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle3fc8b.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle2e174.png?alt=media)
 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=A8F1FF&vCenter=true&lines=Full+Stack+Web+Developer!;Self-Taught+Software+Engineer!;Committed+to+Continuous+Learning!;Open+Source+Contributor!)](https://git.io/typing-svg)
-   
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-domle-06b8a4282/)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/adityadomle)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/domle_aditya)
+<!-- ============================= -->
+<!-- 💡 Typing Animation Banner -->
+<!-- ============================== -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=58A0C8&center=true&multiline=true&repeat=false&width=700&height=117&lines=Hi%2C+I'm+Aditya!;A+Self+Taught+Software+Developer;Based+in+Nagpur%2C+Maharashtra+Area" alt="Typing SVG"/>
+    </a>
+</div>
+<br/>
 
-<!-- ════════════ 💡 WHO I AM ════════════ -->
 
-<!-- ════════════ 🛠 TECHNICAL SKILLS ════════════ -->
-## Technical Skills -
+## Tech Stack-
 <div align="center" style="line-height: 1.6;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="HTML5" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="CSS3" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python" />
+  <img width="8" />
+  <!-- Existing Badges Below -->
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="React" />
   <img width="8" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript" />
@@ -62,9 +71,8 @@
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="Next.js" />
 </div>
 
-
 <!-- ════════════ 📈 GITHUB STATS ════════════ -->
-## GitHub Stats
+## GitHub Stats-
 
 <!-- General stats card -->
 <img src="https://github-readme-stats.vercel.app/api?username=adityadomle&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="450" />
@@ -77,7 +85,7 @@
 
 <!-- ════════════ ☕️ SUPPORT ME ════════════ -->
 
-## Support My Work
+## Support My Work-
 <div align="left">
   <a href="https://www.buymeacoffee.com/adityadomle" target="_blank" rel="noreferrer nofollow">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-darkgreen?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" />
@@ -86,9 +94,9 @@
 
 <!-- ════════════ 💬 RANDOM DEV QUOTE ════════════ -->
 
-### Random Dev Quote
+### Random Dev Quote-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
     <div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadomle&label=Profile%20views&color=0e75b6&style=flat" alt="xeven777" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadomle&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 <!-- ════════════ © ADITYA DOMLE ════════════ -->
