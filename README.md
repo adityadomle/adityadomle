@@ -1,7 +1,8 @@
 <!-- ════════════ 👤 PROFILE BANNER & SOCIAL LINKS ════════════ --> 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle2e174.png?alt=media)
 
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomled75d1.png?alt=media)
 
+  
 <!-- ============================= -->
 <!-- 💡 Typing Animation Banner -->
 <!-- ============================== -->
@@ -70,6 +71,21 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="Next.js" />
 </div>
+
+## Projects:
+
+| Project Name | Description |
+|--------------|-------------|
+| [Nike](https://nike-reimagined-mu.vercel.app/) | Nike website redesign |
+| [FreshMart](https://freshmart-store.vercel.app/) | Grocery store web app |
+| [AI Resume Analyzer](https://ai-resume-analyzer-psi-one.vercel.app/) | AI-powered resume tool |
+| [TripVentureo](https://tripventureo.vercel.app/) | Travel planner website |
+| [Clean React UI](https://clean-react-ui.vercel.app/) | Minimal React UI template |
+| [iTask](https://itask-xpro.vercel.app/) | Dark-themed task app |
+| [GitHub Profile Viewer](https://adityadomle.github.io/GitHub-Profile-Viewer/) | View GitHub profiles |
+| [Restaurant Webpage](https://adityadomle.github.io/Restaurant-Webpage/) | Restaurant landing page |
+| [Grid Project](https://adityadomle.github.io/Grid-project/) | CSS grid layout demo |
+
 
 <!-- ════════════ 📈 GITHUB STATS ════════════ -->
 ## GitHub Stats-
