@@ -1,7 +1,6 @@
 <!-- ════════════ 👤 PROFILE BANNER & SOCIAL LINKS ════════════ --> 
 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomlee1c7e.png?alt=media)
-  
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle8cdd7.png?alt=media)  
 <!-- ============================= -->
 <!-- 💡 Typing Animation Banner -->
 <!-- ============================== -->
@@ -15,13 +14,8 @@
 
 ## Tech Stack-
 <div align="center" style="line-height: 1.6;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="HTML5" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="CSS3" />
-  <img width="8" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python" />
   <img width="8" />
-  <!-- Existing Badges Below -->
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="React" />
   <img width="8" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript" />
@@ -33,8 +27,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="Vercel" />
   <img width="8" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" alt="TailwindCSS" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="MySQL" />
   <img width="8" />
   <img src="https://img.shields.io/badge/shadcn/ui-111827?logo=shadcn&logoColor=white&style=for-the-badge" height="30" alt="shadcn UI" />
   <img width="8" />
@@ -69,7 +61,19 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" height="30" alt="Netlify" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="Next.js" />
+  <img width="8" />
+  <!-- New Additions -->
+  <img src="https://img.shields.io/badge/Radix%20UI-111827?logo=radixui&logoColor=white&style=for-the-badge" height="30" alt="Radix UI" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="PostgreSQL" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Appwrite-FF6D00?logo=appwrite&logoColor=white&style=for-the-badge" height="30" alt="Appwrite" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/v0-000000?logo=vscode&logoColor=white&style=for-the-badge" height="30" alt="v0" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Hoppscotch-FF6C37?logo=hoppscotch&logoColor=white&style=for-the-badge" height="30" alt="Hoppscotch" />
 </div>
+
 
 ## Projects:
 
