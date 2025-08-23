@@ -12,66 +12,62 @@
 <br/>
 
 
-## Tech Stack-
+## Tech Stack
 <div align="center" style="line-height: 1.6;">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python" />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/shadcn/ui-111827?logo=shadcn&logoColor=white&style=for-the-badge" height="30" alt="shadcn UI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-EF4B4B?logo=framer&logoColor=white&style=for-the-badge" height="30" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Appwrite-FF6D00?logo=appwrite&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="NPM" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="Redux" />
+  <img src="https://img.shields.io/badge/shadcn/ui-111827?logo=shadcn&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="30" alt="Canva" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-EF4B4B?logo=framer&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=for-the-badge" height="30" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge" height="30" alt="React Router" />
+  <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="30" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" height="30" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="Figma" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" alt="ESLint" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="GitHub" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" height="30" alt="Netlify" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="Next.js" />
-  <img width="8" />
-  <!-- New Additions -->
-  <img src="https://img.shields.io/badge/Radix%20UI-111827?logo=radixui&logoColor=white&style=for-the-badge" height="30" alt="Radix UI" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="PostgreSQL" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Appwrite-FF6D00?logo=appwrite&logoColor=white&style=for-the-badge" height="30" alt="Appwrite" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/v0-000000?logo=vscode&logoColor=white&style=for-the-badge" height="30" alt="v0" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Hoppscotch-FF6C37?logo=hoppscotch&logoColor=white&style=for-the-badge" height="30" alt="Hoppscotch" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" />
+<img width="8" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" height="30" />
+<img width="8" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" />
+<img width="8" />
+<img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" height="30" />
+<img width="8" />
+<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="30" />
+<img width="8" />
+<img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" height="30" />
+
 </div>
 
 
