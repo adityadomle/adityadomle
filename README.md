@@ -6,88 +6,58 @@
 <!-- ============================== -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=58A0C8&center=true&multiline=true&repeat=false&width=700&height=117&lines=Hi%2C+I'm+Aditya!;A+Self+Taught+Software+Developer;Based+in+Nagpur%2C+Maharashtra+Area" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=Dc143c&center=true&multiline=true&repeat=false&width=700&height=117&lines=Hi%2C+I'm+Aditya!;A+Self+Taught+Software+Developer;Based+in+Nagpur%2C+Maharashtra+Area" alt="Typing SVG"/>
     </a>
 </div>
 <br/>
 
 
-## Tech Stack
-<div align="center" style="line-height: 1.6;">
+<details open>
+<summary><b>Skills & Tools</b></summary>
+<br>
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Appwrite-FF6D00?logo=appwrite&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/shadcn/ui-111827?logo=shadcn&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-EF4B4B?logo=framer&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" />
-<img width="8" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" height="30" />
-<img width="8" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" />
-<img width="8" />
-<img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" height="30" />
-<img width="8" />
-<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="30" />
-<img width="8" />
-<img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" height="30" />
+<!-- Frontend -->
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcn&logoColor=white)&nbsp;
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF4B4B?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
 
-</div>
+<!-- Languages -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
+<!-- Frameworks & Libraries -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)&nbsp;
 
-## Projects:
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 
-| Project Name | Description |
-|--------------|-------------|
-| [Nike](https://nike-reimagined-mu.vercel.app/) | Nike website redesign |
-| [FreshMart](https://freshmart-store.vercel.app/) | Grocery store web app |
-| [AI Resume Analyzer](https://ai-resume-analyzer-psi-one.vercel.app/) | AI-powered resume tool |
-| [TripVentureo](https://tripventureo.vercel.app/) | Travel planner website |
-| [Clean React UI](https://clean-react-ui.vercel.app/) | Minimal React UI template |
-| [iTask](https://itask-xpro.vercel.app/) | Dark-themed task app |
-| [GitHub Profile Viewer](https://adityadomle.github.io/GitHub-Profile-Viewer/) | View GitHub profiles |
-| [Restaurant Webpage](https://adityadomle.github.io/Restaurant-Webpage/) | Restaurant landing page |
-| [Grid Project](https://adityadomle.github.io/Grid-project/) | CSS grid layout demo |
+<!-- Databases -->
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+
+<!-- DevOps & Tools -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
+
+</details>
 
 
 <!-- ════════════ 📈 GITHUB STATS ════════════ -->
-## GitHub Stats-
+<details open>
+<summary><b>⚡ My GitHub Performance</b></summary>
+<br>
 
 <!-- General stats card -->
 <img src="https://github-readme-stats.vercel.app/api?username=adityadomle&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="450" />
@@ -97,6 +67,7 @@
 <br/>
 <!-- Most used languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadomle&layout=compact&theme=gotham&hide_border=false" width="450" />
+</details>
 
 <!-- ════════════ ☕️ SUPPORT ME ════════════ -->
 
