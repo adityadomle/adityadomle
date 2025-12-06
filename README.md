@@ -53,7 +53,7 @@
 
 
 <!-- ════════════ 📈 GITHUB STATS ════════════ -->
-<details open>
+<details closed>
 <summary><b>⚡ My GitHub Performance</b></summary>
 <br>
 
