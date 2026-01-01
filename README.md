@@ -61,21 +61,6 @@
 </details>
 
 
-<!-- ════════════ 📈 GITHUB STATS ════════════ -->
-<details closed>
-<summary><b>⚡ My GitHub Performance</b></summary>
-<br>
-
-<!-- General stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=adityadomle&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="450" />
-<br/>
-<!-- GitHub streak stats -->
-<img src="https://streak-stats.demolab.com/?user=adityadomle&theme=gotham&hide_border=false" width="450" />
-<br/>
-<!-- Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadomle&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
-</details>
-
 <!-- ════════════ ☕️ SUPPORT ME ════════════ -->
 
 ## Support My Work-
