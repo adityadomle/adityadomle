@@ -1,5 +1,8 @@
 <!-- ════════════ 👤 PROFILE BANNER & SOCIAL LINKS ════════════ --> 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle5fdda.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle6bb89.png?alt=media)
+
+
+
 <!-- ============================= -->
 <!-- 💡 Typing Animation Banner -->
 <!-- ============================== -->
